@@ -10,6 +10,9 @@
 
 // title.addEventListener("click", onLogoClick);
 
+
+
+
 const slider = document.querySelector(".hero-list");
 const next = document.querySelector(".next");
 const prev = document.querySelector(".prev");
